@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-[Link do Deploy](https://lindermanbr.github.io/DIO-CSS-Formation-Challange-Youtube-Grid/)
+[Link do Deploy](https://lindermanbr.github.io/DIO-CSS-Formation-Challange-Discord-Clone/)
 
 Clone da página do Discord, criado para expor as habilidades adquiridas no módulo de responsividade do curso da Digital Inovation One.
 
